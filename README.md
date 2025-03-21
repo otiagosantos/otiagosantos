@@ -41,7 +41,7 @@ Me chamo Tiago Gonçalves dos Santos, tenho 25 anos e sou estudante de **Ciênci
 
 ### Social
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:otiagosantos.code@gmail.com)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@otiagosantos/)[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/otiagosantos)[![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/u/otiagosantos)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:otiagosantos.code@gmail.com)[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@otiagosantos/)[![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/u/otiagosantos)
 
 
 ---
